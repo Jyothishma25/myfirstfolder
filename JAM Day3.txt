@@ -1,0 +1,24 @@
+1.What is serialization and why
+2. A class should inherit _____________ class so that it's object can be serialized.
+3. Which class of java.io did we use to write an object to a file
+4. Which class of java.io did we use to read an Object data from file 
+5.What is deserialization
+6. How did we deserialize data from file into object
+7. Which method did we use to write a string into a file using reader class
+8. which method did we use to read a string from a file into a string variable
+9. 
+How to read a line from a file and divide the line into array and print each value of the array
+10. Sysntax of iterator and what is an alternative for iterator
+11. What are collections and why
+12. NAme the top most hierarchy of collection
+13. What is the difference between each
+14. What is Generics and how is it different from Collections
+15. Which one works with index
+16. which one works with key and value pair
+20. java.jdbc What is it and why\
+21. Give the Steps to be followed for to get dat from a table present in a MYSQL database
+22. What is a Driver and WHY 
+23. Which driver did we use write the driver syntax
+24. What is Type1 driver and Type4 write and the difference
+25. What is ResultSet and Why did we use 
+how to read data form resultset
